@@ -1,0 +1,10 @@
+{
+  "zerorpc": "tcp://localhost:1234",
+  "instruments": [
+    {
+      "name": "PilotHorizon",
+      "type": "ArtificialHorizon",
+      "address": "0x1e"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "ArtificialHorizon": {
+    "consumers": {
+      "sim/cockpit/gyros/the_ind_vac_pilot_deg": "pitch",
+      "sim/cockpit/gyros/phi_ind_vac_pilot_deg": "roll"
+    },
+    "producers": {}
+  }
+}
