@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/kevinaangstadt/xplane-simpit#readme",
   "devDependencies": {
-    "electron": "^8.2.0",
+    "electron": "^8.5.1",
     "electron-rebuild": "^1.10.1"
   },
   "dependencies": {
